@@ -33,6 +33,7 @@ font-size: 14px;
 *{
     box-sizing: border-box;
     margin:0;
+    
 }
 body{
     background-color: var(--Cream);
@@ -112,5 +113,4 @@ p, h1{
         width:50%;
         padding:2rem 1.5rem;
     }
-
 }
