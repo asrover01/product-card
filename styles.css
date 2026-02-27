@@ -45,7 +45,7 @@ body{
     align-items: center;
 }
 .product-card{
-    margin:9rem 1rem;
+    margin:5rem 1rem 0;
     border-radius: 20px;
     max-width: 28.6rem;
 }
@@ -119,3 +119,9 @@ p, h1{
 }
 
 
+@media only screen and (min-width:1400px){
+    .product-card{
+        margin-top: 10%;
+
+    }
+}
