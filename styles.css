@@ -35,6 +35,9 @@ font-size: 14px;
     margin:0;
     overflow:hidden;
 }
+html{
+    overflow-y: scroll;
+}
 body{
     background-color: var(--Cream);
     display: flex;
@@ -114,4 +117,5 @@ p, h1{
         padding:2rem 1.5rem;
     }
 }
+
 
